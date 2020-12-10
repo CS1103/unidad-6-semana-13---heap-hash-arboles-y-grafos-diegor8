@@ -1,0 +1,27 @@
+#input
+    10
+    1 2 4 5 3 1 2 10 11 20
+#output
+    mediana = 3
+    mediana = 3
+    mediana = 4
+#endtest
+
+#input
+    8
+    1 2 4 5 5 8 9 10
+#output
+    mediana = 5
+    mediana = 6
+    mediana = 4
+#endtest
+
+#input
+    7
+    1 2 4 5 8 10 10
+#output
+    mediana = 5
+    mediana = 6
+    mediana = 4
+#endtest
+

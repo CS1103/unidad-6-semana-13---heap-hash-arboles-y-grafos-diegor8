@@ -1,0 +1,21 @@
+#input
+    10
+    10 10
+    14 14
+    20 20
+    12 12
+    25 25
+    9 9
+    30 30
+    7 7
+    21 21
+    17 17
+    50 50
+#output
+    punto = 9, 9
+    punto = 12, 12
+    punto = 7, 7
+    punto = 14, 14
+    punto = 1, 1
+    punto = 4, 5
+#endtest
